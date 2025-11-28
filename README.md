@@ -40,15 +40,12 @@ Use at your own discretion.
 2. Move it anywhere (Desktop recommended).
 
 3. Make it executable:
-   ```bash
+ 
    chmod +x ~/Desktop/Clamshell-Toggler.command
-
    (or wherever you saved it)
-
-4. Run it
-
+   
+4. Run it    
 Double-click the file.
-
 If macOS blocks it:
 
 Right-click → Open → Open
