@@ -49,7 +49,9 @@ Double-click the file.
 If macOS blocks it:
 
 Right-click → Open → Open 
+
 OR 
+
 System Settings → Privacy & Security → “Allow Anyway”
 
 ## How It Works
