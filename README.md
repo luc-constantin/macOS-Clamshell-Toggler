@@ -72,7 +72,11 @@ Reboot is triggered automatically.
 ## Compatibility
 
 macOS Ventura+
+
 macOS Sonoma
+
 macOS Sequoia
+
 Apple Silicon (M1–M3)
+
 Intel Macs
